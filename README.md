@@ -23,7 +23,7 @@ This project aims to build an *Autism Detection and Interpretation System* that 
 | Seaborn           | Heatmap visualizations                               |
 | OpenCV            | Image preprocessing and manipulation                 |
 | scikit-learn      | Evaluation metrics (accuracy, classification report) |
-| pandas            | Data handling (if used in the notebook)              |
+| pandas            | Data handling                                        |
 | PIL (Pillow)      | Image processing                                     |
 
 ---
